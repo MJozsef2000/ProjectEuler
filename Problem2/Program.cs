@@ -1,4 +1,4 @@
-﻿namespace HelloWorld{
+﻿namespace Problem2{
     class Program{
         static void Main(string[] args){
           int i = 0;

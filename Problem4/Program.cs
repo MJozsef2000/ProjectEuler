@@ -1,4 +1,4 @@
-﻿namespace Problem3{
+﻿namespace Problem4{
   class Program{
     static void Main(string [] args){
       List<long> ps = new List<long>();
